@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Daosima/hedgehogs/issues"
   },
-  "homepage": "https://github.com/Daosima/hedgehogs#readme"
+  "homepage": "https://github.com/Daosima/hedgehogs#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
